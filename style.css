@@ -1,0 +1,23 @@
+
+button{
+    background-color: transparent;
+    margin-top: 50vh;
+    align-content: center;
+    text-align: center;
+    border: 0px solid gray;
+    border-radius: 5px;
+    margin-left: 95vh;
+    height: 30px;
+}
+button:hover{
+    color: #000;
+    background-color: slategrey;
+}
+button:focus{
+    outline: none;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
